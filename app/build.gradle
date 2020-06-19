@@ -62,5 +62,6 @@ dependencies {
     //Adapter using data binding. Rids of much boilerplate code. >= API 16
     implementation 'com.dc.easyadapter:easyadapter:2.0.3'
     implementation "com.github.skydoves:doublelift:1.0.2"
+    testImplementation 'junit:junit:4.12'
 
 }
